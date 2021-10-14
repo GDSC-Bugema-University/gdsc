@@ -12,7 +12,7 @@ This sunday session, will be talking about ==>
 For More Details KIndly Click ==> [Google Developer Student clubs](https://gdsc.community.dev/bugema-university/)
 ***SIGN UP and JOIN***
 
-![Book your Ticket here ](https://gdsc.community.dev/events/details/developer-student-clubs-bugema-university-presents-collaboration-in-software-developement-2021-10-17/)
+![Book your Ticket here ](https://drive.google.com/file/d/1ENlzZg8wXlcCQVYM_bZohYMhiLGEfGzv/view?usp=sharing)
 
 
 ** WRITE CODE AND HAVE FUN **
