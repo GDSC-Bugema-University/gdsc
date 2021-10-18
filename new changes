@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <a href="https://bugemauniv.ac.ug/index.php/index.php?schoolofcomputingandinformatics">Bugema Universty school Of IT</a>
+    <title>gdsc</title>
+</head>
+<body>
+
+   <a href="https://gdsc.community.dev/bugema-university/"> <h1>Google Developer Student clubs - Bugema university Chapter </h1></a>
+    <p> Google Developer Student Clubs are university based community groups for students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a GDSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community. </p>
+    <button>Get Started </button>
+    
+    <hr>
+    <marquee>We are going forward, together we stand Strong</marquee>
+</body>
+</html
