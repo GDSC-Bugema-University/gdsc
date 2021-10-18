@@ -1,0 +1,62 @@
+html{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+#banner{
+    background: url(images/background.jpg);
+    background-size: contain;
+    height: 58vh;
+    opacity: 0.8;
+    
+}
+
+p{
+    text-align: justify;
+    margin-left: 150px;
+    color: wheat;
+    font-size: 20px;
+    
+}
+
+.banner-content{
+    margin-top: 300px;
+    margin-left: 400px;
+}
+#a{
+    text-decoration: none;
+    text-align: center;
+    
+}
+
+
+
+/*button*/
+.swagButton{
+    border: solid 2px #31A6FF;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 100;
+    font-family: "proxima nova";
+    padding: 10px 80px;
+    border-radius: 50px;
+}
+.swagButton:hover{
+    background-color: cadetblue;
+    color: cornsilk;
+}
+@media screen and (max-width: 600px){
+    .banner-content{
+        margin-top: 300px;
+        margin-left: 100px;
+    }
+    .swagButton{
+        padding: 10px 80px;
+        text-align: center;
+        font-size: 15px;
+    }
+}
