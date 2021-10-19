@@ -50,9 +50,12 @@ p{
     color: cornsilk;
 }
 @media screen and (max-width: 600px){
+    p{
+        margin-left: 0;
+    }
     .banner-content{
         margin-top: 300px;
-        margin-left: 100px;
+        margin-left: 50px;
     }
     .swagButton{
         padding: 10px 80px;
