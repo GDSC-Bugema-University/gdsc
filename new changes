@@ -4,7 +4,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <a href="https://bugemauniv.ac.ug/index.php/index.php?schoolofcomputingandinformatics">Bugema Universty school Of IT</a>
+    <a href="https://bugemauniv.ac.ug/index.php/index.php?schoolofcomputingandinformatics">Bugema Universty School Of IT</a>
+    <ul>
+        <li><a href="HOME">HOME</a></li>
+        <li><a href="CONTACT US">CONTACT</a></li>
+        <li><a href="ABOUT US">ABOUT US</a> </li>
+        <li><a href="SIGN IN">SIGN IN</a></li>
+    </ul>
     <title>gdsc</title>
 </head>
 <body>
