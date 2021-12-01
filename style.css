@@ -46,8 +46,8 @@ p{
     border-radius: 50px;
 }
 .swagButton:hover{
-    background-color: cadetblue;
-    color: cornsilk;
+    background-color: rgb(161, 35, 35);
+    color: rgb(32, 18, 46);
 }
 @media screen and (max-width: 600px){
     p{
@@ -68,10 +68,10 @@ p{
     margin:0;
     padding: 0;
     overflow: 0;
-    background-color: #31A6FF;
+    background-color: #ffb731;
 }
 li {
-    float: left;
+    float: bootststap;
 }
 li a{
     display: block;
